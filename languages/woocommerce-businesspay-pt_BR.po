@@ -1,0 +1,878 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce BusinessPay\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-27 20:56+0000\n"
+"PO-Revision-Date: 2019-01-27 20:57+0000\n"
+"Last-Translator: webmaster <webmaster@hypelab.com.br>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#: templates/missing-woocommerce-template.php:18
+msgid "depends on the last version of WooCommerce to work!"
+msgstr "depende da última versão do WooCommerce para funcionar!"
+
+#: templates/missing-woocommerce-template.php:24
+msgid "Activate WooCommerce"
+msgstr "Ativar WooCommerce"
+
+#: templates/missing-woocommerce-template.php:34
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+#: templates/businesspay-panel-gateway.php:18
+#: templates/businesspay-panel-antifraud.php:20
+msgid "\\a\\t"
+msgstr "\\à\\s"
+
+#: templates/businesspay-panel-gateway.php:25
+#: includes/woocommerce-businesspay-gateway.php:340
+msgid "Debit Card"
+msgstr "Cartão de débito"
+
+#: templates/businesspay-panel-gateway.php:27
+#: templates/frontend-template.php:87
+msgid "At sight via debit"
+msgstr "À vista via débito em conta"
+
+#: templates/businesspay-panel-gateway.php:30
+#: includes/woocommerce-businesspay-gateway.php:251
+msgid "Credit Card"
+msgstr "Cartão de crédito"
+
+#: templates/businesspay-panel-gateway.php:32
+msgid "Unknown Brand"
+msgstr "Bandeira desconhecida"
+
+#: templates/businesspay-panel-gateway.php:38
+#: templates/frontend-template.php:95
+msgid "x of "
+msgstr "x de "
+
+#: templates/businesspay-panel-gateway.php:42
+msgid "Bank Transference"
+msgstr "Transferência bancária"
+
+#: templates/businesspay-panel-gateway.php:48
+#: templates/businesspay-panel-gateway.php:56
+#: templates/businesspay-panel-gateway.php:78
+#: templates/businesspay-panel-gateway.php:86
+msgid "Unavailable"
+msgstr "Indisponível"
+
+#: templates/businesspay-panel-gateway.php:64
+#: templates/frontend-template.php:26
+#: includes/woocommerce-businesspay-gateway.php:356
+msgid "Billet"
+msgstr "Boleto"
+
+#: templates/businesspay-panel-gateway.php:93
+msgid "Unknown"
+msgstr "Desconhecido"
+
+#: templates/businesspay-panel-gateway.php:102
+msgid "Transaction Information"
+msgstr "Informações da Transação"
+
+#: templates/businesspay-panel-gateway.php:103
+#: templates/businesspay-panel-antifraud.php:37
+msgid "ID: "
+msgstr "ID: "
+
+#: templates/businesspay-panel-gateway.php:105
+#: templates/businesspay-panel-antifraud.php:39
+msgid "Date: "
+msgstr "Data: "
+
+#: templates/businesspay-panel-gateway.php:107
+#: templates/businesspay-panel-antifraud.php:41
+msgid "Status: "
+msgstr "Status: "
+
+#: templates/businesspay-panel-gateway.php:109
+msgid "Payment Information"
+msgstr "Informações do pagamento"
+
+#: templates/businesspay-panel-gateway.php:110
+msgid "Type: "
+msgstr "Tipo: "
+
+#: templates/businesspay-panel-gateway.php:113
+msgid "Brand: "
+msgstr "Bandeira: "
+
+#: templates/businesspay-panel-gateway.php:115
+msgid "Installments: "
+msgstr "Parcelas: "
+
+#: templates/businesspay-panel-gateway.php:118
+msgid "Origin Bank: "
+msgstr "Banco de origem: "
+
+#: templates/businesspay-panel-gateway.php:120
+msgid "Reference Code: "
+msgstr "Código de referência: "
+
+#: templates/businesspay-panel-gateway.php:122
+#: templates/businesspay-panel-gateway.php:134
+msgid "Payment Date: "
+msgstr "Data do pagamento: "
+
+#: templates/businesspay-panel-gateway.php:124
+#: templates/businesspay-panel-gateway.php:136
+msgid "Payment Amount: "
+msgstr "Valor pago: "
+
+#: templates/businesspay-panel-gateway.php:126
+msgid "Provider Bank: "
+msgstr "Banco emissor: "
+
+#: templates/businesspay-panel-gateway.php:128
+msgid "Provider Reference: "
+msgstr "Referência do emissor: "
+
+#: templates/businesspay-panel-gateway.php:130
+msgid "Emission Date: "
+msgstr "Data de emissão: "
+
+#: templates/businesspay-panel-gateway.php:132
+msgid "Expiration Date: "
+msgstr "Data de expiração: "
+
+#: templates/missing-woocommerce-version-template.php:11
+#, php-format
+msgid "depends on the WooCommerce %s minimum version to work!"
+msgstr "depende da versão mínima %s do WooCommerce para funcionar!"
+
+#: templates/missing-ecfb-template.php:18
+msgid ""
+"depends on the last version of WooCommerce Extra Checkout Fields for Brazil "
+"to work!"
+msgstr ""
+"depende da última versão do WooCommerce Extra Checkout Fields for Brazil "
+"para funcionar!"
+
+#: templates/missing-ecfb-template.php:24
+msgid "Activate WooCommerce Extra Checkout Fields for Brazil"
+msgstr "Ativar WooCommerce Extra Checkout Fields for Brazil"
+
+#: templates/missing-ecfb-template.php:34
+msgid "Install WooCommerce Extra Checkout Fields for Brazil"
+msgstr "Instalar WooCommerce Extra Checkout Fields for Brazil"
+
+#: templates/missing-wp-template.php:11
+#, php-format
+msgid "depends on the Wordpress %s minimum version to work!"
+msgstr "depende da versão mínima %s do Wordpress para funcionar!"
+
+#: templates/missing-php-template.php:11
+#, php-format
+msgid "depends on the PHP %s minimum version to work!"
+msgstr "depende da versão mínima %s do PHP para funcionar!"
+
+#: templates/missing-visual-card-template.php:18
+msgid "depends on the last version of WooCommerce Visual Card to work!"
+msgstr "depende da última versão do WooCommerce Visual Card para funcionar!"
+
+#: templates/missing-visual-card-template.php:24
+msgid "Activate WooCommerce Visual Card"
+msgstr "Ativar WooCommerce Visual Card"
+
+#: templates/missing-visual-card-template.php:34
+msgid "Install WooCommerce Visual Card"
+msgstr "Instalar WooCommerce Visual Card"
+
+#: templates/missing-ssl-template.php:11
+msgid "depends on an active security certificate to work!"
+msgstr "depende de um certificado SSL ativo para funcionar!"
+
+#: templates/businesspay-panel-antifraud.php:25
+msgid "Not applicable."
+msgstr "Não aplicável."
+
+#: templates/businesspay-panel-antifraud.php:36
+msgid "Analysis Information"
+msgstr "Dados da Análise"
+
+#: templates/businesspay-panel-antifraud.php:43
+msgid "Score: "
+msgstr "Score: "
+
+#: templates/businesspay-panel-antifraud.php:45
+msgid "Message: "
+msgstr "Mensagem: "
+
+#: templates/frontend-template.php:16
+msgid "Credit and Debit Card"
+msgstr "Crédito ou Débito"
+
+#: templates/frontend-template.php:21
+#: includes/woocommerce-businesspay-gateway.php:348
+msgid "Bank Transfer"
+msgstr "Transferência"
+
+#: templates/frontend-template.php:36
+msgid "Card number"
+msgstr "Número do cartão"
+
+#: templates/frontend-template.php:46
+msgid "Name printed on card"
+msgstr "Nome impresso no cartão"
+
+#: templates/frontend-template.php:53
+msgid "Expiry date (MM/YYYY)"
+msgstr "Expira em"
+
+#: templates/frontend-template.php:58
+msgid "MM / YYYY"
+msgstr "MM / AAAA"
+
+#: templates/frontend-template.php:62
+msgid "Security code"
+msgstr "Código de segurança"
+
+#: templates/frontend-template.php:66
+msgid "CVC"
+msgstr "CVC"
+
+#: templates/frontend-template.php:71
+msgid "Installments Quantity"
+msgstr "Forma de pagamento"
+
+#: templates/frontend-template.php:74 templates/frontend-template.php:76
+msgid "Select"
+msgstr "Selecione"
+
+#: templates/frontend-template.php:95
+msgid "In "
+msgstr "Em "
+
+#: templates/frontend-template.php:95
+msgid " on credit card"
+msgstr " no cartão de crédito"
+
+#: templates/frontend-template.php:104
+msgid "Card holder document number"
+msgstr "CPF ou CNPJ do portador"
+
+#: templates/frontend-template.php:116
+msgid "Select your bank:"
+msgstr "Selecione seu banco:"
+
+#: templates/frontend-template.php:120 templates/frontend-template.php:143
+msgid "Itaú"
+msgstr "Itaú"
+
+#: templates/frontend-template.php:126 templates/frontend-template.php:149
+msgid "Bradesco"
+msgstr "Bradesco"
+
+#: templates/frontend-template.php:131
+msgid ""
+"* Você será redirecionado para efetuar o pagamento diretamente no seu "
+"internet banking."
+msgstr "* Você será redirecionado para o seu internet banking."
+
+#: templates/frontend-template.php:139
+msgid "Select the bank to generate the billet:"
+msgstr "Selecione o banco que irá gerar o boleto:"
+
+#: templates/frontend-template.php:154
+msgid "* The order will be confirmed only after the payment approval."
+msgstr "* O pedido será confirmado após o pagamento."
+
+#: templates/frontend-template.php:164
+msgid "This is a secure environment."
+msgstr "Este é um ambiente seguro."
+
+#: templates/frontend-template.php:172
+msgid "Antifraud by ClearSale."
+msgstr "Antifraude por ClearSale."
+
+#: templates/frontend-template.php:178
+msgid "This purchase is being made in "
+msgstr "Esta compra está sendo realizada no "
+
+#: templates/frontend-template.php:181 templates/frontend-template.php:183
+msgid "Brazil"
+msgstr "Brasil"
+
+#: templates/frontend-template.php:182
+msgid "This purchase is being made in Brazil"
+msgstr "Esta compra está sendo feita no Brasil"
+
+#: includes/woocommerce-businesspay-gateway.php:26
+#: includes/woocommerce-businesspay-gateway.php:218
+msgid "BusinessPay"
+msgstr "BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:27
+msgid "Accept payments using BusinessPay Gateway."
+msgstr "Receba pagamentos usando o BusinessPay."
+
+#: includes/woocommerce-businesspay-gateway.php:173
+msgid "Account Enabled"
+msgstr "Conta habilitada."
+
+#: includes/woocommerce-businesspay-gateway.php:173
+msgid "Account Disabled"
+msgstr "Conta inativa ou inexistente."
+
+#: includes/woocommerce-businesspay-gateway.php:174
+msgid "Installation Enabled"
+msgstr "Instalação habilitada."
+
+#: includes/woocommerce-businesspay-gateway.php:174
+msgid "Installation Disabled"
+msgstr "Instalação não registrada."
+
+#: includes/woocommerce-businesspay-gateway.php:175
+msgid "Antifraud Enabled"
+msgstr "Antifraude habilitado."
+
+#: includes/woocommerce-businesspay-gateway.php:175
+msgid "Antifraud Disabled"
+msgstr "Antifraude desabilitado."
+
+#: includes/woocommerce-businesspay-gateway.php:176
+msgid "Product not configured"
+msgstr "Produto não configurado"
+
+#: includes/woocommerce-businesspay-gateway.php:178
+msgid "Client Account:"
+msgstr "Conta do cliente:"
+
+#: includes/woocommerce-businesspay-gateway.php:179
+msgid "Client Installation:"
+msgstr "Instalação do cliente:"
+
+#: includes/woocommerce-businesspay-gateway.php:180
+msgid "Client Antifraud:"
+msgstr "Antifraude do cliente:"
+
+#: includes/woocommerce-businesspay-gateway.php:181
+msgid "Antifraud Product:"
+msgstr "Produto Antifraude: "
+
+#: includes/woocommerce-businesspay-gateway.php:194
+msgid "Antifraud by "
+msgstr "Antifraude por "
+
+#: includes/woocommerce-businesspay-gateway.php:203
+msgid "BusinessPay Payment Gateway"
+msgstr "BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:208
+msgid "Enable BusinessPay"
+msgstr "Habilita checkout BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:209
+msgid "Enable BusinessPay Gateway Plugin"
+msgstr "Habilita plugin de pagamentos BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:210
+msgid "Enable BusinessPay gateway plugin options."
+msgstr "Habilita opções do plugin de pagamentos BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:216
+msgid "Title"
+msgstr "Título"
+
+#: includes/woocommerce-businesspay-gateway.php:217
+msgid "Payment method title seen on the checkout page."
+msgstr "Título do método de pagamento visto na página de checkout."
+
+#: includes/woocommerce-businesspay-gateway.php:223
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/woocommerce-businesspay-gateway.php:224
+msgid "Payment method description seen on the checkout page."
+msgstr "Descrição do método de pagamento visto na página de checkout."
+
+#: includes/woocommerce-businesspay-gateway.php:225
+msgid ""
+"Pay with credit or debit card, billet and bank transfer using BusinessPay."
+msgstr ""
+"Pague com cartão de crédito ou débito, boleto e transferência usando "
+"BusinessPay."
+
+#: includes/woocommerce-businesspay-gateway.php:230
+msgid "Gateway Settings"
+msgstr "Configurações do gateway"
+
+#: includes/woocommerce-businesspay-gateway.php:235
+msgid "Authentication API"
+msgstr "Usuário da API"
+
+#: includes/woocommerce-businesspay-gateway.php:236
+msgid "Use your BusinessPay Authentication API"
+msgstr "Insira seu usuário da API BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:243
+msgid "Authentication Key"
+msgstr "Chave da API"
+
+#: includes/woocommerce-businesspay-gateway.php:244
+msgid "Use your BusinessPay Authentication Key"
+msgstr "Insira sua chave da API BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:252
+msgid "Enable credit card payments with BusinessPay"
+msgstr "Habilita pagamentos com cartão de crédito"
+
+#: includes/woocommerce-businesspay-gateway.php:253
+msgid "Enable credit card payment with BusinessPay on checkout page"
+msgstr "Habilita cartão de crédito com BusinessPay na página de checkout"
+
+#: includes/woocommerce-businesspay-gateway.php:258
+msgid "Credit Card Settings"
+msgstr "Configurações de cartão de crédito"
+
+#: includes/woocommerce-businesspay-gateway.php:264
+msgid "Name in Invoice"
+msgstr "Nome na fatura"
+
+#: includes/woocommerce-businesspay-gateway.php:265
+msgid ""
+"Name in Invoice to identify Shop. Its important to avoid gateway chargebacks."
+msgstr ""
+"Nome na fatura para identificação da loja. Importante para evitar "
+"chargebacks no Gateway."
+
+#: includes/woocommerce-businesspay-gateway.php:272
+msgid "Invoice Prefix"
+msgstr "Prefixo da fatura"
+
+#: includes/woocommerce-businesspay-gateway.php:273
+msgid "Shop prefix to identify invoice shop origin"
+msgstr "Prefixo da loja para identificar a loja de origem do pedido"
+
+#: includes/woocommerce-businesspay-gateway.php:279
+msgid "Installments"
+msgstr "Parcelamento"
+
+#: includes/woocommerce-businesspay-gateway.php:281
+msgid "Enable Installments"
+msgstr "Habilita parcelamento com cartão de crédito"
+
+#: includes/woocommerce-businesspay-gateway.php:285
+msgid "Installments Settings"
+msgstr "Configurações de parcelamento"
+
+#: includes/woocommerce-businesspay-gateway.php:290
+msgid "Minimum Installment"
+msgstr "Parcelamento mínimo"
+
+#: includes/woocommerce-businesspay-gateway.php:292
+msgid "Indicate the minimum installments."
+msgstr "Indica o mínimo de parcelas."
+
+#: includes/woocommerce-businesspay-gateway.php:311
+msgid "Maximum Installment"
+msgstr "Parcelamento máximo"
+
+#: includes/woocommerce-businesspay-gateway.php:313
+msgid "Indicate the Maximum installments."
+msgstr "Indica o máximo de parcelas."
+
+#: includes/woocommerce-businesspay-gateway.php:332
+msgid "Minimum Value"
+msgstr "Valor mínimo"
+
+#: includes/woocommerce-businesspay-gateway.php:333
+msgid "Minimum value by installment"
+msgstr "Valor mínimo por parcela"
+
+#: includes/woocommerce-businesspay-gateway.php:341
+msgid "Enable debit card payments with BusinessPay"
+msgstr "Habilita pagamentos por cartão de débito"
+
+#: includes/woocommerce-businesspay-gateway.php:342
+msgid "Enable debit card payment on checkout page"
+msgstr "Habilita cartão de débito na página de checkout"
+
+#: includes/woocommerce-businesspay-gateway.php:349
+msgid "Enable bank transfer payments with BusinessPay"
+msgstr "Habilita pagamentos por transferência bancária"
+
+#: includes/woocommerce-businesspay-gateway.php:350
+msgid "Enable bank transfer payment on checkout page"
+msgstr "Habilita pagamentos por transferência bancária na página de checkout"
+
+#: includes/woocommerce-businesspay-gateway.php:357
+msgid "Enable billet payments with BusinessPay"
+msgstr "Habilita pagamentos por boleto bancário"
+
+#: includes/woocommerce-businesspay-gateway.php:358
+msgid "Enable billet payment on checkout page"
+msgstr "Habilita pagamento por boleto na página de checkout"
+
+#: includes/woocommerce-businesspay-gateway.php:363
+msgid "Billet Settings"
+msgstr "Configurações de boleto"
+
+#: includes/woocommerce-businesspay-gateway.php:368
+msgid "Number of Days"
+msgstr "Dias para vencimento"
+
+#: includes/woocommerce-businesspay-gateway.php:370
+msgid "Days of expiry of the billet after printed."
+msgstr "Dias para expiração do boleto após impresso."
+
+#: includes/woocommerce-businesspay-gateway.php:377
+msgid "Instruction Line"
+msgstr "Linha de instrução"
+
+#: includes/woocommerce-businesspay-gateway.php:378
+msgid "Billet instruction line"
+msgstr "Linha de instrução do boleto"
+
+#: includes/woocommerce-businesspay-gateway.php:383
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: includes/woocommerce-businesspay-gateway.php:389
+msgid "BusinessPay Sandbox"
+msgstr "Ambiente de testes"
+
+#: includes/woocommerce-businesspay-gateway.php:390
+msgid "Enable BusinessPay sandbox mode"
+msgstr "Habilita ambiente de testes do BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:391
+msgid "Enable BusinessPay Sandbox"
+msgstr "Habilita sandbox do BusinessPay"
+
+#: includes/woocommerce-businesspay-gateway.php:398
+msgid "Debug"
+msgstr "Log de erros"
+
+#: includes/woocommerce-businesspay-gateway.php:399
+msgid "Enable logging"
+msgstr "Habilitar log de erros do WooCommerce"
+
+#: includes/woocommerce-businesspay-gateway.php:405
+msgid "Status"
+msgstr "Status"
+
+#: includes/woocommerce-businesspay-gateway.php:427
+msgid "Card number must be at least 14 characters."
+msgstr "Número do cartão deve conter no mínimo 14 caracteres."
+
+#: includes/woocommerce-businesspay-gateway.php:430
+msgid "The Card Number field must be numeric."
+msgstr "O campo Número do cartão deve ser numérico."
+
+#: includes/woocommerce-businesspay-gateway.php:433
+msgid "Invalid card number."
+msgstr "Número de cartão inválido."
+
+#: includes/woocommerce-businesspay-gateway.php:440
+msgid "The Name field can not be less than 6 characters."
+msgstr "O campo Nome não pode conter menos que 6 caracteres."
+
+#: includes/woocommerce-businesspay-gateway.php:443
+msgid "The Name field can not be greater than 25 characters."
+msgstr "O campo Nome não pode conter mais que 25 caracteres."
+
+#: includes/woocommerce-businesspay-gateway.php:446
+msgid "The Name field can not have numbers."
+msgstr "O campo Nome não pode conter números."
+
+#: includes/woocommerce-businesspay-gateway.php:456
+msgid "The Month of Expiration field must have 2 digits."
+msgstr "O valor do mês de expiração deve conter 2 dígitos."
+
+#: includes/woocommerce-businesspay-gateway.php:459
+msgid "The Month of Expiration field must be numeric."
+msgstr "O valor do mês de expiração deve ser numérico."
+
+#: includes/woocommerce-businesspay-gateway.php:462
+msgid "The Year of Expiration field must be numeric."
+msgstr "O valor do ano de expiração deve ser numérico."
+
+#: includes/woocommerce-businesspay-gateway.php:465
+msgid "The Year of Expiration field must have 4 digits."
+msgstr "O valor do ano de expiração deve conter 4 dígitos."
+
+#: includes/woocommerce-businesspay-gateway.php:472
+#: includes/woocommerce-businesspay-gateway.php:478
+msgid "The CVC field must have 3 or 4 digits."
+msgstr "O campo CVC deve conter 3 ou 4 dígitos."
+
+#: includes/woocommerce-businesspay-gateway.php:475
+msgid "The CVC field must be numeric."
+msgstr "O campo CVC deve ser numérico."
+
+#: includes/woocommerce-businesspay-gateway.php:485
+msgid "Please select a installment option."
+msgstr "Por favor selecione uma opção de parcelamento."
+
+#: includes/woocommerce-businesspay-gateway.php:496
+msgid "The Document field must have 11 digits for CPF or 14 digits for CNPJ."
+msgstr ""
+"O campo CPF ou CNPJ do portador deve conter 11 dígitos para CPF ou 14 "
+"dígitos para CNPJ."
+
+#: includes/woocommerce-businesspay-gateway.php:499
+msgid "The Document field must be numeric."
+msgstr "O campo CPF ou CNPJ do portador deve ser numérico."
+
+#: includes/woocommerce-businesspay-gateway.php:502
+msgid "The Document field as CPF is invalid."
+msgstr "O valor do campo CPF ou CNPJ do portador como CPF é inválido."
+
+#: includes/woocommerce-businesspay-gateway.php:505
+msgid "The Document field as CNPJ is invalid."
+msgstr "O valor do campo CPF ou CNPJ do portador como CNPJ é inválido."
+
+#: includes/woocommerce-businesspay-gateway.php:513
+msgid "Please select a origin transfer bank option."
+msgstr "Por favor selecione o banco de origem da transferência."
+
+#: includes/woocommerce-businesspay-gateway.php:519
+#: includes/woocommerce-businesspay-gateway.php:532
+msgid "The Neighborhood field need to be filled."
+msgstr "O campo Bairro é obrigatório."
+
+#: includes/woocommerce-businesspay-gateway.php:526
+msgid "Please select a origin billet bank option."
+msgstr "Por favor selecione o banco emissor do boleto."
+
+#: includes/woocommerce-businesspay-gateway.php:550
+msgid "BusinessPay | Debit Card"
+msgstr "BusinessPay | Cartão de débito"
+
+#: includes/woocommerce-businesspay-gateway.php:552
+msgid "BusinessPay | Credit Card"
+msgstr "BusinessPay | Cartão de crédito"
+
+#: includes/woocommerce-businesspay-gateway.php:554
+msgid "BusinessPay | Bank Transfer"
+msgstr "BusinessPay | Transferência bancária"
+
+#: includes/woocommerce-businesspay-gateway.php:556
+msgid "BusinessPay | Billet"
+msgstr "BusinessPay | Boleto"
+
+#: includes/woocommerce-businesspay-gateway.php:583
+msgid "Failed to refund order. The reason field must be filled."
+msgstr "Falha ao estornar pedido. O campo razão deve ser preenchido."
+
+#: includes/woocommerce-businesspay-gateway.php:586
+msgid "Failed to refund order. The Amount must be identical to order total."
+msgstr ""
+"Falha ao estornar pedido. A quantidade deve ser idêntica ao total do pedido."
+
+#: includes/woocommerce-businesspay-gateway.php:753
+msgid ""
+"The credentials for this virtual store are not valid on the BusinessPay "
+"server."
+msgstr "As credenciais desta loja virtual não são válidas neste servidor."
+
+#: includes/woocommerce-businesspay-gateway.php:756
+#: includes/woocommerce-businesspay-gateway.php:1380
+msgid "Could not receive a valid server response. Please try again."
+msgstr ""
+"Não foi possível receber uma resposta válida do servidor. Por favor tente "
+"novamente."
+
+#: includes/woocommerce-businesspay-gateway.php:850
+msgid "BusinessPay Status: "
+msgstr "Status BusinessPay: "
+
+#: includes/woocommerce-businesspay-gateway.php:1048
+msgid "Transaction started but not confirmed."
+msgstr "Transação iniciada mas não confirmada."
+
+#: includes/woocommerce-businesspay-gateway.php:1051
+msgid "Awating payment."
+msgstr "Aguardando pagamento."
+
+#: includes/woocommerce-businesspay-gateway.php:1054
+msgid "Transaction effectivated."
+msgstr "Transação efetivada."
+
+#: includes/woocommerce-businesspay-gateway.php:1057
+msgid "Transaction under analysis."
+msgstr "Transação em análise."
+
+#: includes/woocommerce-businesspay-gateway.php:1060
+msgid "Transaction expired."
+msgstr "Transação expirada."
+
+#: includes/woocommerce-businesspay-gateway.php:1063
+msgid "Transaction authorized."
+msgstr "Transação autorizada."
+
+#: includes/woocommerce-businesspay-gateway.php:1066
+msgid "Transaction confirmed."
+msgstr "Transação confirmada."
+
+#: includes/woocommerce-businesspay-gateway.php:1069
+msgid "Transaction denied."
+msgstr "Transação negada."
+
+#: includes/woocommerce-businesspay-gateway.php:1072
+msgid "Cancellation in progress."
+msgstr "Cancelamento em andamento."
+
+#: includes/woocommerce-businesspay-gateway.php:1075
+msgid "Transaction Canceled."
+msgstr "Transação cancelada."
+
+#: includes/woocommerce-businesspay-gateway.php:1078
+msgid "Transaction pending of confirmation."
+msgstr "Transação pendente de confirmação."
+
+#: includes/woocommerce-businesspay-gateway.php:1081
+msgid "Failure to communicate with the provider."
+msgstr "Falha na comunicação com o emissor."
+
+#: includes/woocommerce-businesspay-gateway.php:1084
+msgid "No valid server response."
+msgstr "Nenhuma resposta válida do servidor."
+
+#: includes/woocommerce-businesspay-gateway.php:1103
+msgid "payment made less than the value of the order."
+msgstr "Pagamento efetuado com valor menor que o valor do pedido."
+
+#: includes/woocommerce-businesspay-gateway.php:1377
+#: includes/woocommerce-businesspay-gateway.php:1987
+msgid ""
+"The credentials for this virtual store are not valid on the BusinessPay "
+"server. Please try again."
+msgstr ""
+"As credenciais desta loja virtual não são válidas neste servidor. Tente "
+"novamente em alguns instantes."
+
+#: includes/woocommerce-businesspay-gateway.php:1423
+msgid "Antifraud Status: "
+msgstr "Status Antifraude: "
+
+#: includes/woocommerce-businesspay-gateway.php:1561
+msgid ""
+"Order was automatically approved according to parameters defined in the "
+"automatic approval rule."
+msgstr ""
+"Pedido aprovado automaticamente de acordo com parâmetros definidos na regra "
+"de aprovação automática."
+
+#: includes/woocommerce-businesspay-gateway.php:1564
+msgid "Order is queued for analysis."
+msgstr "Pedido está na fila para análise."
+
+#: includes/woocommerce-businesspay-gateway.php:1567
+msgid "Order manually approved by decision-making of an analyst."
+msgstr "Pedido aprovado manualmente através da tomada de decisão do analista."
+
+#: includes/woocommerce-businesspay-gateway.php:1570
+msgid ""
+"Order approved automatically by client-established policy or antifraud "
+"software rule."
+msgstr ""
+"Pedido aprovado manualmente por política estabelecida pelo cliente ou regra "
+"do software antifraude."
+
+#: includes/woocommerce-businesspay-gateway.php:1573
+msgid "Canceled by customer or duplicated order."
+msgstr "Cancelado pelo cliente ou pedido duplicado."
+
+#: includes/woocommerce-businesspay-gateway.php:1576
+msgid ""
+"Order imputed as fraud confirmed by contact with the card administrator and "
+"/ or contact with the card holder or CPF of the registry that is unaware of "
+"the purchase."
+msgstr ""
+"Pedido imputado como fraude confirmada pelo contato com a administradora do "
+"cartão e/ou contato com o portador do cartão ou CPF do registro que "
+"desconhece a compra."
+
+#: includes/woocommerce-businesspay-gateway.php:1579
+msgid "Order imported and not classified Score by the analyzer yet."
+msgstr "Pedido importado e não classificado Score ainda pelo analista."
+
+#: includes/woocommerce-businesspay-gateway.php:1582
+msgid ""
+"Order Automatically Disapproved by some type of business rule that needs to "
+"be applied."
+msgstr ""
+"Pedido reprovado automaticamente por algum tipo de regra de negócio que "
+"precisa ser aplicada."
+
+#: includes/woocommerce-businesspay-gateway.php:1585
+msgid ""
+"Order disapproved without suspicion by lack of contact with the client "
+"within the agreed period and / or social security number of restrictive "
+"policies (Irregular, SUS or Canceled)."
+msgstr ""
+"Pedido cancelado sem suspeita por falta de contato com o cliente dentro do "
+"período acordado e/ou número de CPF por políticas restritivas (Irregular, "
+"SUS ou Cancelado)."
+
+#: includes/woocommerce-businesspay-gateway.php:1588
+msgid ""
+"Order disapproved automatically by policy established by customer or "
+"antifraud software."
+msgstr ""
+"Pedido reprovado automaticamente por política estabelecida pelo cliente ou "
+"software antifraude."
+
+#: includes/woocommerce-businesspay-gateway.php:1591
+msgid ""
+"Order automatically approved by policy established by the customer or "
+"antifraud software."
+msgstr ""
+"Pedido aprovado automaticamente por política estabelecida pelo cliente ou "
+"software antifraude."
+
+#: includes/woocommerce-businesspay-gateway.php:2041
+msgid "Woocommerce Order"
+msgstr "Pedido do WooCommerce"
+
+#: includes/woocommerce-businesspay-gateway.php:3398
+#: includes/woocommerce-businesspay-gateway.php:3405
+msgid "BusinessPay Disabled"
+msgstr "BusinessPay desabilitado"
+
+#: includes/woocommerce-businesspay-gateway.php:3399
+msgid "You must enable at least one form of payment."
+msgstr "Você precisa habilitar ao menos uma forma de pagamento."
+
+#: includes/woocommerce-businesspay-gateway.php:3400
+msgid "Click here to configure!"
+msgstr "Clique aqui para configurar!"
+
+#: includes/woocommerce-businesspay-gateway.php:3406
+#, php-format
+msgid ""
+"Currency <code>%s</code> is not supported. Works only with <code>BRL</code> "
+"(Brazilian Real)."
+msgstr "Moeda %s não é suportada. Funciona apenas com BRL (Real Brasileiro)"
+
+#. Name of the plugin
+msgid "WooCommerce BusinessPay"
+msgstr "WooCommerce BusinessPay"
+
+#. Description of the plugin
+msgid ""
+"Solução de meio de pagamento online com as melhores taxas do mercado e "
+"antifraude by ClearSale."
+msgstr ""
+"Solução de meio de pagamento online com as melhores taxas do mercado e "
+"antifraude by ClearSale."
+
+#. URI of the plugin
+msgid "https://www.businesspay.com.br"
+msgstr "https://www.businesspay.com.br"
+
+#. Author URI of the plugin
+msgid "https://www.businesspay.com.br/"
+msgstr "https://www.businesspay.com.br/"

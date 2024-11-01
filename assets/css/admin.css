@@ -1,0 +1,7 @@
+h3#woocommerce_businesspay_gateway_general {
+    display: none;
+}
+
+h3#woocommerce_businesspay_gateway_status {
+    font-size: 22px;
+}
